@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/BookingFlightTickets/src/main/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/BookingFlightTickets/src/test/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/CheckInCustomers/src/main/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/CheckInCustomers/src/test/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/ConfigServer/src/main/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/ConfigServer/src/test/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/FaresFlightTickets/src/main/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/FaresFlightTickets/src/test/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/FlightsWebSite/src/main/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/FlightsWebSite/src/test/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/SearchFlightTickets/src/main/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/SearchFlightTickets/src/test/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/SearchFlightTickets2/src/main/java"/>
+	<classpathentry kind="src" path="MicroServicesCloudConfigWorkspace/SearchFlightTickets2/src/test/java"/>
+	<classpathentry kind="lib" path="MicroServicesCloudConfigWorkspace/BookingFlightTickets/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="MicroServicesCloudConfigWorkspace/BookingFlightTickets/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="MicroServicesCloudConfigWorkspace/CheckInCustomers/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="MicroServicesCloudConfigWorkspace/ConfigServer/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="MicroServicesCloudConfigWorkspace/FaresFlightTickets/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="MicroServicesCloudConfigWorkspace/FlightsWebSite/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="MicroServicesCloudConfigWorkspace/SearchFlightTickets/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="MicroServicesCloudConfigWorkspace/SearchFlightTickets2/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="MicroServicesCloudConfigWorkspace/BookingFlightTickets/target/classes"/>
+</classpath>
